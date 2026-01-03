@@ -45,5 +45,3 @@ After compiling, run the program with:
 - Linux or compatible OS
 
 ---
-
-Update this README with more details about the project, usage, and features as needed.
