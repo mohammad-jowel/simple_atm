@@ -1,7 +1,7 @@
 
 # Simple ATM
 
-This project appears to be a C program with the following files:
+This project inclides following files:
 
 - `main.c`: Main source code file for the project.
 - `main`: Compiled executable (likely generated from `main.c`).
