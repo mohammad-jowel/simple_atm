@@ -5,7 +5,7 @@ This project inclides following files:
 
 - `main.c`: Main source code file for the project.
 - `main`: Compiled executable (likely generated from `main.c`).
-- `accounts.csv`: Data file, possibly used for storing account information.
+- `accounts.csv`: Data file, used for storing account information(cardNumber, ain, amount).
 
 
 ## Getting Started
@@ -45,11 +45,5 @@ After compiling, run the program with:
 - Linux or compatible OS
 
 ---
-
----
-
-## Repository
-
-GitHub: [https://github.com/mohammad-jowel/simple_atm](https://github.com/mohammad-jowel/simple_atm)
 
 Update this README with more details about the project, usage, and features as needed.
