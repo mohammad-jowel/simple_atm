@@ -1,5 +1,5 @@
 
-# Final Project
+# Simple ATM
 
 This project appears to be a C program with the following files:
 
